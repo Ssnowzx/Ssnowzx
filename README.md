@@ -1,22 +1,27 @@
-<h1 align="center">Olá, eu sou o Rodrigo! 👋🛹</h1>
+<h1 align="center">Olá, eu sou o Rodrigo! 👋</h1>
 
 <p align="center">
-  <em>Estudante de programação · apaixonado por skate e código · Lages, SC 🇧🇷</em>
+  <strong>Product Engineer</strong> · Automação Inteligente, Sistemas Multi-Agentes & Arquitetura de Software
+</p>
+<p align="center">
+  <em>Santa Catarina, Brasil 🇧🇷 · Centro Universitário Unifacvest</em>
 </p>
 
 ---
 
 ### 🚀 Sobre mim
-- 🔭 Atualmente focado em projetos com **C** e **desenvolvimento Web**
-- 🌱 Aprendendo cada vez mais sobre **Sistemas Operacionais** e front-end
-- 🛹 Fora do código, sou viciado em skate
+- 🤖 Construo e **orquestro workflows de IA** e sistemas multi-agentes (Google Gemini, LangChain, LangGraph, RAG)
+- 💻 Desenvolvedor **full-stack** com foco em React, TypeScript e Node.js
+- 🏗️ Apaixonado por **arquitetura de software** e por construir produtos que resolvem dores reais
+- 🧪 Mantenho a **SnowsLand** — meu laboratório de projetos pessoais e acadêmicos
+- 🎓 Certificado na **Imersão Dev Agentes de IA** (Alura + Google)
 - 📫 Como me encontrar: adicione seus links abaixo
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,tailwind,supabase,vite,git,github,python,vscode" />
 </p>
 
 ---
