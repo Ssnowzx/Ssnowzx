@@ -28,26 +28,26 @@
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://link-tree-snows.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/SnowsLand-%E2%9D%84%EF%B8%8F_All_my_links-5b9bd5?style=for-the-badge&logo=vercel&logoColor=white" alt="SnowsLand"/>
+    <img src="https://img.shields.io/badge/SnowsLand-%E2%9D%84%EF%B8%8F_All_my_links-39d353?style=for-the-badge&logo=vercel&logoColor=white" alt="SnowsLand"/>
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+## 👾 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ssnowzx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssnowzx&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ssnowzx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=39d353&icon_color=39d353&text_color=9be9a8&bg_color=0d1117&ring_color=39d353" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssnowzx&layout=compact&hide_border=true&title_color=39d353&text_color=9be9a8&bg_color=0d1117" />
 
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ssnowzx&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ssnowzx&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=9be9a8&dates=8b949e&currStreakNum=9be9a8&sideNums=9be9a8" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity — Last Year
+## 🐍 Contribution Activity — Since Day One
 
 <div align="center">
   <picture>
@@ -60,5 +60,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ssnowzx&label=Profile%20views&color=58a6ff&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ssnowzx&label=Profile%20views&color=39d353&style=flat" alt="views"/>
 </p>
