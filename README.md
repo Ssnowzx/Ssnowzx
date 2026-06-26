@@ -1,32 +1,31 @@
-<h1 align="center">Olá, eu sou o Rodrigo! 👋</h1>
+<h1 align="center">Hi there, I'm Rodrigo! 👋</h1>
 
 <p align="center">
-  <strong>Product Engineer</strong> · Automação Inteligente, Sistemas Multi-Agentes & Arquitetura de Software
+  <strong>Product Engineer</strong> · Intelligent Automation, Multi-Agent Systems & Software Architecture
 </p>
 <p align="center">
-  <em>Santa Catarina, Brasil 🇧🇷 · Centro Universitário Unifacvest</em>
+  <em>Santa Catarina, Brazil 🇧🇷</em>
 </p>
 
 ---
 
-### 🚀 Sobre mim
-- 🤖 Construo e **orquestro workflows de IA** e sistemas multi-agentes (Google Gemini, LangChain, LangGraph, RAG)
-- 💻 Desenvolvedor **full-stack** com foco em React, TypeScript e Node.js
-- 🏗️ Apaixonado por **arquitetura de software** e por construir produtos que resolvem dores reais
-- 🧪 Mantenho a **SnowsLand** — meu laboratório de projetos pessoais e acadêmicos
-- 🎓 Certificado na **Imersão Dev Agentes de IA** (Alura + Google)
-- 📫 Como me encontrar: adicione seus links abaixo
+### 🚀 About me
+- 🤖 I build and orchestrate **intelligent automation** and **multi-agent systems**
+- 💻 **Full-stack developer** with a focus on React, TypeScript and Node.js
+- 🏗️ Passionate about **software architecture** and building products that solve real problems
+- 🧪 Always learning, experimenting with new stacks and shipping side projects
+- 📫 How to reach me: add your links below
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,tailwind,supabase,vite,git,github,python,vscode" />
 </p>
 
 ---
 
-### 📊 Minhas estatísticas no GitHub
+### 📊 My GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ssnowzx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
