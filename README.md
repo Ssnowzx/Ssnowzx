@@ -13,6 +13,7 @@
 - 🤖 I build and orchestrate **intelligent automation** and **multi-agent systems**
 - 💻 **Full-stack developer** with a focus on React, TypeScript and Node.js
 - 🏗️ Passionate about **software architecture** and building products that solve real problems
+- 🧠 I leverage **Claude** as a core part of my engineering workflow, integrating AI to ship higher-quality software faster
 - 🧪 Always learning, experimenting with new stacks and shipping side projects
 - 📫 How to reach me: add your links below
 
