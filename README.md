@@ -15,13 +15,21 @@
 - 🏗️ Passionate about **software architecture** and building products that solve real problems
 - 🧠 I leverage **Claude** as a core part of my engineering workflow, integrating AI to ship higher-quality software faster
 - 🧪 Always learning, experimenting with new stacks and shipping side projects
-- 📫 How to reach me: add your links below
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,tailwind,supabase,vite,git,github,python,vscode" />
+</p>
+
+---
+
+### 🔗 Connect with me
+<p align="left">
+  <a href="https://link-tree-snows.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/SnowsLand-%E2%9D%84%EF%B8%8F_All_my_links-ff0080?style=for-the-badge&logo=vercel&logoColor=white" alt="SnowsLand"/>
+  </a>
 </p>
 
 ---
