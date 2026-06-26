@@ -38,8 +38,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ssnowzx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=39d353&icon_color=39d353&text_color=9be9a8&bg_color=0d1117&ring_color=39d353" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssnowzx&layout=compact&hide_border=true&title_color=39d353&text_color=9be9a8&bg_color=0d1117" />
+<img width="99%" src="https://raw.githubusercontent.com/Ssnowzx/Ssnowzx/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+
+<img width="49%" src="https://raw.githubusercontent.com/Ssnowzx/Ssnowzx/main/profile-summary-card-output/github_dark/3-stats.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/Ssnowzx/Ssnowzx/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
+
+<img width="49%" src="https://raw.githubusercontent.com/Ssnowzx/Ssnowzx/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/Ssnowzx/Ssnowzx/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 
 <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ssnowzx&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=9be9a8&dates=8b949e&currStreakNum=9be9a8&sideNums=9be9a8" />
 
