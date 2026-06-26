@@ -34,20 +34,20 @@
 
 ---
 
-### 📊 My GitHub Stats
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ssnowzx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssnowzx&layout=compact&theme=radical"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ssnowzx&theme=radical" alt="streak"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ssnowzx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=ff0080&icon_color=ff0080&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssnowzx&layout=compact&hide_border=true&title_color=ff0080&text_color=c9d1d9&bg_color=0d1117" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ssnowzx&theme=radical&row=1&column=7" alt="trophy"/>
-</p>
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ssnowzx&hide_border=true&background=0d1117&stroke=ff0080&ring=ff0080&fire=ff0080&currStreakLabel=ff0080&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ssnowzx&bg_color=0d1117&color=ff0080&line=ff0080&point=ffffff&area_color=ff0080&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ssnowzx&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+</div>
 
 ---
 
