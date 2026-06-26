@@ -45,8 +45,6 @@
 
 <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ssnowzx&bg_color=0d1117&color=ff0080&line=ff0080&point=ffffff&area_color=ff0080&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 
-<img width="99%" src="https://github-profile-trophy.vercel.app/?username=Ssnowzx&theme=radical&row=1&column=7&margin-w=8&margin-h=8" />
-
 </div>
 
 ---
